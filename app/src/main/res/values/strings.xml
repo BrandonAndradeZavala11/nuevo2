@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="textview">Brandon Andrade</string>
+    <string name="yellow_star">16dp</string>
+    <string name="what_is_your_nickname">What is your Nickname</string>
+    <string name="yellowstar">26dp</string>
+    <string name="done">Done</string>
+    <string name="bio">Hola mi nombre es Brandon Andrade.
+\n\nSoy de Moroleon.
+\n\nMe gusta mucho el futbol.
+\nLe voy a Cruz Azul y Napoli.
+\nFierro.\n\n</string>
+
+
+</resources>
